@@ -1,0 +1,1351 @@
+fecha,producto,precio,stock,ventas,Día de la Semana,Estacionalidad (Festivo)
+2025-01-01,Pan Chabatta,0.25,768,772,Miércoles,No
+2025-01-01,Pan Francés,0.25,648,657,Miércoles,No
+2025-01-01,Pan Yema Largo,0.25,360,350,Miércoles,No
+2025-01-01,Pan Yema Redondo,0.25,360,362,Miércoles,No
+2025-01-01,Pan Chapla,0.25,144,149,Miércoles,No
+2025-01-01,Pan Coliza,0.25,192,200,Miércoles,No
+2025-01-01,Pan Integral,0.25,144,147,Miércoles,No
+2025-01-01,Pan Caracol,0.25,144,150,Miércoles,No
+2025-01-01,Pan Hamburguesa,0.4,288,297,Miércoles,No
+2025-01-01,Cachito,0.25,144,145,Miércoles,No
+2025-01-01,Pan Manjar,0.3,24,25,Miércoles,No
+2025-01-01,Leche,4.0,5,6,Miércoles,No
+2025-01-01,Jamon,2.5,6,5,Miércoles,No
+2025-01-01,Café,2.0,5,5,Miércoles,No
+2025-01-01,Queso,3.0,4,2,Miércoles,No
+2025-01-02,Pan Chabatta,0.25,768,763,Jueves,No
+2025-01-02,Pan Francés,0.25,648,653,Jueves,No
+2025-01-02,Pan Yema Largo,0.25,360,372,Jueves,No
+2025-01-02,Pan Yema Redondo,0.25,360,375,Jueves,No
+2025-01-02,Pan Chapla,0.25,144,141,Jueves,No
+2025-01-02,Pan Coliza,0.25,192,195,Jueves,No
+2025-01-02,Pan Integral,0.25,144,144,Jueves,No
+2025-01-02,Pan Caracol,0.25,144,146,Jueves,No
+2025-01-02,Pan Hamburguesa,0.4,288,284,Jueves,No
+2025-01-02,Cachito,0.25,144,149,Jueves,No
+2025-01-02,Pan Manjar,0.3,24,22,Jueves,No
+2025-01-02,Leche,4.0,5,4,Jueves,No
+2025-01-02,Jamon,2.5,6,6,Jueves,No
+2025-01-02,Café,2.0,5,5,Jueves,No
+2025-01-02,Queso,3.0,4,2,Jueves,No
+2025-01-03,Pan Chabatta,0.25,768,776,Viernes,No
+2025-01-03,Pan Francés,0.25,648,653,Viernes,No
+2025-01-03,Pan Yema Largo,0.25,360,369,Viernes,No
+2025-01-03,Pan Yema Redondo,0.25,360,356,Viernes,No
+2025-01-03,Pan Chapla,0.25,144,148,Viernes,No
+2025-01-03,Pan Coliza,0.25,192,200,Viernes,No
+2025-01-03,Pan Integral,0.25,144,145,Viernes,No
+2025-01-03,Pan Caracol,0.25,144,141,Viernes,No
+2025-01-03,Pan Hamburguesa,0.4,288,292,Viernes,No
+2025-01-03,Cachito,0.25,144,145,Viernes,No
+2025-01-03,Pan Manjar,0.3,24,25,Viernes,No
+2025-01-03,Leche,4.0,5,3,Viernes,No
+2025-01-03,Jamon,2.5,6,4,Viernes,No
+2025-01-03,Café,2.0,5,4,Viernes,No
+2025-01-03,Queso,3.0,4,5,Viernes,No
+2025-01-04,Pan Chabatta,0.25,768,768,Sábado,Sí
+2025-01-04,Pan Francés,0.25,648,650,Sábado,Sí
+2025-01-04,Pan Yema Largo,0.25,360,371,Sábado,Sí
+2025-01-04,Pan Yema Redondo,0.25,360,375,Sábado,Sí
+2025-01-04,Pan Chapla,0.25,144,142,Sábado,Sí
+2025-01-04,Pan Coliza,0.25,192,198,Sábado,Sí
+2025-01-04,Pan Integral,0.25,144,150,Sábado,Sí
+2025-01-04,Pan Caracol,0.25,144,150,Sábado,Sí
+2025-01-04,Pan Hamburguesa,0.4,288,287,Sábado,Sí
+2025-01-04,Cachito,0.25,144,148,Sábado,Sí
+2025-01-04,Pan Manjar,0.3,24,26,Sábado,Sí
+2025-01-04,Leche,4.0,5,4,Sábado,Sí
+2025-01-04,Jamon,2.5,6,5,Sábado,Sí
+2025-01-04,Café,2.0,5,7,Sábado,Sí
+2025-01-04,Queso,3.0,4,2,Sábado,Sí
+2025-01-05,Pan Chabatta,0.25,768,776,Domingo,Sí
+2025-01-05,Pan Francés,0.25,648,653,Domingo,Sí
+2025-01-05,Pan Yema Largo,0.25,360,374,Domingo,Sí
+2025-01-05,Pan Yema Redondo,0.25,360,377,Domingo,Sí
+2025-01-05,Pan Chapla,0.25,144,145,Domingo,Sí
+2025-01-05,Pan Coliza,0.25,192,193,Domingo,Sí
+2025-01-05,Pan Integral,0.25,144,149,Domingo,Sí
+2025-01-05,Pan Caracol,0.25,144,145,Domingo,Sí
+2025-01-05,Pan Hamburguesa,0.4,288,284,Domingo,Sí
+2025-01-05,Cachito,0.25,144,150,Domingo,Sí
+2025-01-05,Pan Manjar,0.3,24,28,Domingo,Sí
+2025-01-05,Leche,4.0,5,2,Domingo,Sí
+2025-01-05,Jamon,2.5,6,6,Domingo,Sí
+2025-01-05,Café,2.0,5,6,Domingo,Sí
+2025-01-05,Queso,3.0,4,5,Domingo,Sí
+2025-01-06,Pan Chabatta,0.25,768,777,Lunes,No
+2025-01-06,Pan Francés,0.25,648,642,Lunes,No
+2025-01-06,Pan Yema Largo,0.25,360,355,Lunes,No
+2025-01-06,Pan Yema Redondo,0.25,360,380,Lunes,No
+2025-01-06,Pan Chapla,0.25,144,142,Lunes,No
+2025-01-06,Pan Coliza,0.25,192,194,Lunes,No
+2025-01-06,Pan Integral,0.25,144,145,Lunes,No
+2025-01-06,Pan Caracol,0.25,144,146,Lunes,No
+2025-01-06,Pan Hamburguesa,0.4,288,291,Lunes,No
+2025-01-06,Cachito,0.25,144,142,Lunes,No
+2025-01-06,Pan Manjar,0.3,24,25,Lunes,No
+2025-01-06,Leche,4.0,5,4,Lunes,No
+2025-01-06,Jamon,2.5,6,5,Lunes,No
+2025-01-06,Café,2.0,5,5,Lunes,No
+2025-01-06,Queso,3.0,4,5,Lunes,No
+2025-01-07,Pan Chabatta,0.25,768,779,Martes,No
+2025-01-07,Pan Francés,0.25,648,660,Martes,No
+2025-01-07,Pan Yema Largo,0.25,360,377,Martes,No
+2025-01-07,Pan Yema Redondo,0.25,360,375,Martes,No
+2025-01-07,Pan Chapla,0.25,144,144,Martes,No
+2025-01-07,Pan Coliza,0.25,192,192,Martes,No
+2025-01-07,Pan Integral,0.25,144,143,Martes,No
+2025-01-07,Pan Caracol,0.25,144,149,Martes,No
+2025-01-07,Pan Hamburguesa,0.4,288,281,Martes,No
+2025-01-07,Cachito,0.25,144,147,Martes,No
+2025-01-07,Pan Manjar,0.3,24,26,Martes,No
+2025-01-07,Leche,4.0,5,5,Martes,No
+2025-01-07,Jamon,2.5,6,6,Martes,No
+2025-01-07,Café,2.0,5,7,Martes,No
+2025-01-07,Queso,3.0,4,2,Martes,No
+2025-01-08,Pan Chabatta,0.25,768,770,Miércoles,No
+2025-01-08,Pan Francés,0.25,648,658,Miércoles,No
+2025-01-08,Pan Yema Largo,0.25,360,351,Miércoles,No
+2025-01-08,Pan Yema Redondo,0.25,360,362,Miércoles,No
+2025-01-08,Pan Chapla,0.25,144,148,Miércoles,No
+2025-01-08,Pan Coliza,0.25,192,199,Miércoles,No
+2025-01-08,Pan Integral,0.25,144,150,Miércoles,No
+2025-01-08,Pan Caracol,0.25,144,147,Miércoles,No
+2025-01-08,Pan Hamburguesa,0.4,288,296,Miércoles,No
+2025-01-08,Cachito,0.25,144,142,Miércoles,No
+2025-01-08,Pan Manjar,0.3,24,22,Miércoles,No
+2025-01-08,Leche,4.0,5,2,Miércoles,No
+2025-01-08,Jamon,2.5,6,6,Miércoles,No
+2025-01-08,Café,2.0,5,5,Miércoles,No
+2025-01-08,Queso,3.0,4,4,Miércoles,No
+2025-01-09,Pan Chabatta,0.25,768,763,Jueves,No
+2025-01-09,Pan Francés,0.25,648,654,Jueves,No
+2025-01-09,Pan Yema Largo,0.25,360,372,Jueves,No
+2025-01-09,Pan Yema Redondo,0.25,360,374,Jueves,No
+2025-01-09,Pan Chapla,0.25,144,140,Jueves,No
+2025-01-09,Pan Coliza,0.25,192,196,Jueves,No
+2025-01-09,Pan Integral,0.25,144,146,Jueves,No
+2025-01-09,Pan Caracol,0.25,144,146,Jueves,No
+2025-01-09,Pan Hamburguesa,0.4,288,282,Jueves,No
+2025-01-09,Cachito,0.25,144,150,Jueves,No
+2025-01-09,Pan Manjar,0.3,24,23,Jueves,No
+2025-01-09,Leche,4.0,5,2,Jueves,No
+2025-01-09,Jamon,2.5,6,4,Jueves,No
+2025-01-09,Café,2.0,5,4,Jueves,No
+2025-01-09,Queso,3.0,4,2,Jueves,No
+2025-01-10,Pan Chabatta,0.25,768,773,Viernes,No
+2025-01-10,Pan Francés,0.25,648,653,Viernes,No
+2025-01-10,Pan Yema Largo,0.25,360,370,Viernes,No
+2025-01-10,Pan Yema Redondo,0.25,360,362,Viernes,No
+2025-01-10,Pan Chapla,0.25,144,150,Viernes,No
+2025-01-10,Pan Coliza,0.25,192,195,Viernes,No
+2025-01-10,Pan Integral,0.25,144,141,Viernes,No
+2025-01-10,Pan Caracol,0.25,144,140,Viernes,No
+2025-01-10,Pan Hamburguesa,0.4,288,294,Viernes,No
+2025-01-10,Cachito,0.25,144,146,Viernes,No
+2025-01-10,Pan Manjar,0.3,24,23,Viernes,No
+2025-01-10,Leche,4.0,5,5,Viernes,No
+2025-01-10,Jamon,2.5,6,6,Viernes,No
+2025-01-10,Café,2.0,5,4,Viernes,No
+2025-01-10,Queso,3.0,4,2,Viernes,No
+2025-01-11,Pan Chabatta,0.25,768,767,Sábado,Sí
+2025-01-11,Pan Francés,0.25,648,650,Sábado,Sí
+2025-01-11,Pan Yema Largo,0.25,360,368,Sábado,Sí
+2025-01-11,Pan Yema Redondo,0.25,360,371,Sábado,Sí
+2025-01-11,Pan Chapla,0.25,144,144,Sábado,Sí
+2025-01-11,Pan Coliza,0.25,192,200,Sábado,Sí
+2025-01-11,Pan Integral,0.25,144,147,Sábado,Sí
+2025-01-11,Pan Caracol,0.25,144,150,Sábado,Sí
+2025-01-11,Pan Hamburguesa,0.4,288,281,Sábado,Sí
+2025-01-11,Cachito,0.25,144,150,Sábado,Sí
+2025-01-11,Pan Manjar,0.3,24,22,Sábado,Sí
+2025-01-11,Leche,4.0,5,3,Sábado,Sí
+2025-01-11,Jamon,2.5,6,6,Sábado,Sí
+2025-01-11,Café,2.0,5,7,Sábado,Sí
+2025-01-11,Queso,3.0,4,4,Sábado,Sí
+2025-01-12,Pan Chabatta,0.25,768,774,Domingo,Sí
+2025-01-12,Pan Francés,0.25,648,649,Domingo,Sí
+2025-01-12,Pan Yema Largo,0.25,360,374,Domingo,Sí
+2025-01-12,Pan Yema Redondo,0.25,360,377,Domingo,Sí
+2025-01-12,Pan Chapla,0.25,144,142,Domingo,Sí
+2025-01-12,Pan Coliza,0.25,192,190,Domingo,Sí
+2025-01-12,Pan Integral,0.25,144,147,Domingo,Sí
+2025-01-12,Pan Caracol,0.25,144,143,Domingo,Sí
+2025-01-12,Pan Hamburguesa,0.4,288,284,Domingo,Sí
+2025-01-12,Cachito,0.25,144,148,Domingo,Sí
+2025-01-12,Pan Manjar,0.3,24,28,Domingo,Sí
+2025-01-12,Leche,4.0,5,4,Domingo,Sí
+2025-01-12,Jamon,2.5,6,4,Domingo,Sí
+2025-01-12,Café,2.0,5,5,Domingo,Sí
+2025-01-12,Queso,3.0,4,5,Domingo,Sí
+2025-01-13,Pan Chabatta,0.25,768,780,Lunes,No
+2025-01-13,Pan Francés,0.25,648,643,Lunes,No
+2025-01-13,Pan Yema Largo,0.25,360,350,Lunes,No
+2025-01-13,Pan Yema Redondo,0.25,360,377,Lunes,No
+2025-01-13,Pan Chapla,0.25,144,143,Lunes,No
+2025-01-13,Pan Coliza,0.25,192,195,Lunes,No
+2025-01-13,Pan Integral,0.25,144,143,Lunes,No
+2025-01-13,Pan Caracol,0.25,144,150,Lunes,No
+2025-01-13,Pan Hamburguesa,0.4,288,288,Lunes,No
+2025-01-13,Cachito,0.25,144,143,Lunes,No
+2025-01-13,Pan Manjar,0.3,24,28,Lunes,No
+2025-01-13,Leche,4.0,5,6,Lunes,No
+2025-01-13,Jamon,2.5,6,4,Lunes,No
+2025-01-13,Café,2.0,5,4,Lunes,No
+2025-01-13,Queso,3.0,4,2,Lunes,No
+2025-01-14,Pan Chabatta,0.25,768,775,Martes,No
+2025-01-14,Pan Francés,0.25,648,657,Martes,No
+2025-01-14,Pan Yema Largo,0.25,360,380,Martes,No
+2025-01-14,Pan Yema Redondo,0.25,360,372,Martes,No
+2025-01-14,Pan Chapla,0.25,144,144,Martes,No
+2025-01-14,Pan Coliza,0.25,192,191,Martes,No
+2025-01-14,Pan Integral,0.25,144,143,Martes,No
+2025-01-14,Pan Caracol,0.25,144,148,Martes,No
+2025-01-14,Pan Hamburguesa,0.4,288,281,Martes,No
+2025-01-14,Cachito,0.25,144,148,Martes,No
+2025-01-14,Pan Manjar,0.3,24,22,Martes,No
+2025-01-14,Leche,4.0,5,5,Martes,No
+2025-01-14,Jamon,2.5,6,6,Martes,No
+2025-01-14,Café,2.0,5,7,Martes,No
+2025-01-14,Queso,3.0,4,4,Martes,No
+2025-01-15,Pan Chabatta,0.25,768,772,Miércoles,No
+2025-01-15,Pan Francés,0.25,648,660,Miércoles,No
+2025-01-15,Pan Yema Largo,0.25,360,351,Miércoles,No
+2025-01-15,Pan Yema Redondo,0.25,360,358,Miércoles,No
+2025-01-15,Pan Chapla,0.25,144,144,Miércoles,No
+2025-01-15,Pan Coliza,0.25,192,198,Miércoles,No
+2025-01-15,Pan Integral,0.25,144,150,Miércoles,No
+2025-01-15,Pan Caracol,0.25,144,150,Miércoles,No
+2025-01-15,Pan Hamburguesa,0.4,288,297,Miércoles,No
+2025-01-15,Cachito,0.25,144,141,Miércoles,No
+2025-01-15,Pan Manjar,0.3,24,25,Miércoles,No
+2025-01-15,Leche,4.0,5,2,Miércoles,No
+2025-01-15,Jamon,2.5,6,4,Miércoles,No
+2025-01-15,Café,2.0,5,4,Miércoles,No
+2025-01-15,Queso,3.0,4,3,Miércoles,No
+2025-01-16,Pan Chabatta,0.25,768,760,Jueves,No
+2025-01-16,Pan Francés,0.25,648,650,Jueves,No
+2025-01-16,Pan Yema Largo,0.25,360,374,Jueves,No
+2025-01-16,Pan Yema Redondo,0.25,360,371,Jueves,No
+2025-01-16,Pan Chapla,0.25,144,140,Jueves,No
+2025-01-16,Pan Coliza,0.25,192,197,Jueves,No
+2025-01-16,Pan Integral,0.25,144,150,Jueves,No
+2025-01-16,Pan Caracol,0.25,144,145,Jueves,No
+2025-01-16,Pan Hamburguesa,0.4,288,286,Jueves,No
+2025-01-16,Cachito,0.25,144,148,Jueves,No
+2025-01-16,Pan Manjar,0.3,24,23,Jueves,No
+2025-01-16,Leche,4.0,5,6,Jueves,No
+2025-01-16,Jamon,2.5,6,4,Jueves,No
+2025-01-16,Café,2.0,5,5,Jueves,No
+2025-01-16,Queso,3.0,4,2,Jueves,No
+2025-01-17,Pan Chabatta,0.25,768,776,Viernes,No
+2025-01-17,Pan Francés,0.25,648,650,Viernes,No
+2025-01-17,Pan Yema Largo,0.25,360,367,Viernes,No
+2025-01-17,Pan Yema Redondo,0.25,360,362,Viernes,No
+2025-01-17,Pan Chapla,0.25,144,150,Viernes,No
+2025-01-17,Pan Coliza,0.25,192,198,Viernes,No
+2025-01-17,Pan Integral,0.25,144,145,Viernes,No
+2025-01-17,Pan Caracol,0.25,144,140,Viernes,No
+2025-01-17,Pan Hamburguesa,0.4,288,294,Viernes,No
+2025-01-17,Cachito,0.25,144,150,Viernes,No
+2025-01-17,Pan Manjar,0.3,24,24,Viernes,No
+2025-01-17,Leche,4.0,5,6,Viernes,No
+2025-01-17,Jamon,2.5,6,4,Viernes,No
+2025-01-17,Café,2.0,5,6,Viernes,No
+2025-01-17,Queso,3.0,4,5,Viernes,No
+2025-01-18,Pan Chabatta,0.25,768,767,Sábado,Sí
+2025-01-18,Pan Francés,0.25,648,649,Sábado,Sí
+2025-01-18,Pan Yema Largo,0.25,360,370,Sábado,Sí
+2025-01-18,Pan Yema Redondo,0.25,360,373,Sábado,Sí
+2025-01-18,Pan Chapla,0.25,144,143,Sábado,Sí
+2025-01-18,Pan Coliza,0.25,192,200,Sábado,Sí
+2025-01-18,Pan Integral,0.25,144,150,Sábado,Sí
+2025-01-18,Pan Caracol,0.25,144,150,Sábado,Sí
+2025-01-18,Pan Hamburguesa,0.4,288,287,Sábado,Sí
+2025-01-18,Cachito,0.25,144,145,Sábado,Sí
+2025-01-18,Pan Manjar,0.3,24,27,Sábado,Sí
+2025-01-18,Leche,4.0,5,2,Sábado,Sí
+2025-01-18,Jamon,2.5,6,5,Sábado,Sí
+2025-01-18,Café,2.0,5,7,Sábado,Sí
+2025-01-18,Queso,3.0,4,4,Sábado,Sí
+2025-01-19,Pan Chabatta,0.25,768,777,Domingo,Sí
+2025-01-19,Pan Francés,0.25,648,650,Domingo,Sí
+2025-01-19,Pan Yema Largo,0.25,360,374,Domingo,Sí
+2025-01-19,Pan Yema Redondo,0.25,360,376,Domingo,Sí
+2025-01-19,Pan Chapla,0.25,144,141,Domingo,Sí
+2025-01-19,Pan Coliza,0.25,192,192,Domingo,Sí
+2025-01-19,Pan Integral,0.25,144,147,Domingo,Sí
+2025-01-19,Pan Caracol,0.25,144,141,Domingo,Sí
+2025-01-19,Pan Hamburguesa,0.4,288,283,Domingo,Sí
+2025-01-19,Cachito,0.25,144,149,Domingo,Sí
+2025-01-19,Pan Manjar,0.3,24,26,Domingo,Sí
+2025-01-19,Leche,4.0,5,2,Domingo,Sí
+2025-01-19,Jamon,2.5,6,6,Domingo,Sí
+2025-01-19,Café,2.0,5,7,Domingo,Sí
+2025-01-19,Queso,3.0,4,2,Domingo,Sí
+2025-01-20,Pan Chabatta,0.25,768,780,Lunes,No
+2025-01-20,Pan Francés,0.25,648,644,Lunes,No
+2025-01-20,Pan Yema Largo,0.25,360,352,Lunes,No
+2025-01-20,Pan Yema Redondo,0.25,360,380,Lunes,No
+2025-01-20,Pan Chapla,0.25,144,146,Lunes,No
+2025-01-20,Pan Coliza,0.25,192,195,Lunes,No
+2025-01-20,Pan Integral,0.25,144,144,Lunes,No
+2025-01-20,Pan Caracol,0.25,144,146,Lunes,No
+2025-01-20,Pan Hamburguesa,0.4,288,289,Lunes,No
+2025-01-20,Cachito,0.25,144,146,Lunes,No
+2025-01-20,Pan Manjar,0.3,24,26,Lunes,No
+2025-01-20,Leche,4.0,5,2,Lunes,No
+2025-01-20,Jamon,2.5,6,4,Lunes,No
+2025-01-20,Café,2.0,5,4,Lunes,No
+2025-01-20,Queso,3.0,4,5,Lunes,No
+2025-01-21,Pan Chabatta,0.25,768,776,Martes,No
+2025-01-21,Pan Francés,0.25,648,660,Martes,No
+2025-01-21,Pan Yema Largo,0.25,360,380,Martes,No
+2025-01-21,Pan Yema Redondo,0.25,360,373,Martes,No
+2025-01-21,Pan Chapla,0.25,144,145,Martes,No
+2025-01-21,Pan Coliza,0.25,192,196,Martes,No
+2025-01-21,Pan Integral,0.25,144,146,Martes,No
+2025-01-21,Pan Caracol,0.25,144,146,Martes,No
+2025-01-21,Pan Hamburguesa,0.4,288,280,Martes,No
+2025-01-21,Cachito,0.25,144,149,Martes,No
+2025-01-21,Pan Manjar,0.3,24,24,Martes,No
+2025-01-21,Leche,4.0,5,5,Martes,No
+2025-01-21,Jamon,2.5,6,4,Martes,No
+2025-01-21,Café,2.0,5,7,Martes,No
+2025-01-21,Queso,3.0,4,2,Martes,No
+2025-01-22,Pan Chabatta,0.25,768,775,Miércoles,No
+2025-01-22,Pan Francés,0.25,648,659,Miércoles,No
+2025-01-22,Pan Yema Largo,0.25,360,350,Miércoles,No
+2025-01-22,Pan Yema Redondo,0.25,360,362,Miércoles,No
+2025-01-22,Pan Chapla,0.25,144,145,Miércoles,No
+2025-01-22,Pan Coliza,0.25,192,197,Miércoles,No
+2025-01-22,Pan Integral,0.25,144,150,Miércoles,No
+2025-01-22,Pan Caracol,0.25,144,148,Miércoles,No
+2025-01-22,Pan Hamburguesa,0.4,288,294,Miércoles,No
+2025-01-22,Cachito,0.25,144,145,Miércoles,No
+2025-01-22,Pan Manjar,0.3,24,22,Miércoles,No
+2025-01-22,Leche,4.0,5,6,Miércoles,No
+2025-01-22,Jamon,2.5,6,4,Miércoles,No
+2025-01-22,Café,2.0,5,4,Miércoles,No
+2025-01-22,Queso,3.0,4,2,Miércoles,No
+2025-01-23,Pan Chabatta,0.25,768,760,Jueves,No
+2025-01-23,Pan Francés,0.25,648,650,Jueves,No
+2025-01-23,Pan Yema Largo,0.25,360,369,Jueves,No
+2025-01-23,Pan Yema Redondo,0.25,360,370,Jueves,No
+2025-01-23,Pan Chapla,0.25,144,140,Jueves,No
+2025-01-23,Pan Coliza,0.25,192,196,Jueves,No
+2025-01-23,Pan Integral,0.25,144,149,Jueves,No
+2025-01-23,Pan Caracol,0.25,144,146,Jueves,No
+2025-01-23,Pan Hamburguesa,0.4,288,286,Jueves,No
+2025-01-23,Cachito,0.25,144,149,Jueves,No
+2025-01-23,Pan Manjar,0.3,24,22,Jueves,No
+2025-01-23,Leche,4.0,5,6,Jueves,No
+2025-01-23,Jamon,2.5,6,6,Jueves,No
+2025-01-23,Café,2.0,5,7,Jueves,No
+2025-01-23,Queso,3.0,4,5,Jueves,No
+2025-01-24,Pan Chabatta,0.25,768,779,Viernes,No
+2025-01-24,Pan Francés,0.25,648,650,Viernes,No
+2025-01-24,Pan Yema Largo,0.25,360,367,Viernes,No
+2025-01-24,Pan Yema Redondo,0.25,360,358,Viernes,No
+2025-01-24,Pan Chapla,0.25,144,150,Viernes,No
+2025-01-24,Pan Coliza,0.25,192,199,Viernes,No
+2025-01-24,Pan Integral,0.25,144,145,Viernes,No
+2025-01-24,Pan Caracol,0.25,144,140,Viernes,No
+2025-01-24,Pan Hamburguesa,0.4,288,297,Viernes,No
+2025-01-24,Cachito,0.25,144,148,Viernes,No
+2025-01-24,Pan Manjar,0.3,24,22,Viernes,No
+2025-01-24,Leche,4.0,5,2,Viernes,No
+2025-01-24,Jamon,2.5,6,4,Viernes,No
+2025-01-24,Café,2.0,5,4,Viernes,No
+2025-01-24,Queso,3.0,4,5,Viernes,No
+2025-01-25,Pan Chabatta,0.25,768,763,Sábado,Sí
+2025-01-25,Pan Francés,0.25,648,647,Sábado,Sí
+2025-01-25,Pan Yema Largo,0.25,360,373,Sábado,Sí
+2025-01-25,Pan Yema Redondo,0.25,360,370,Sábado,Sí
+2025-01-25,Pan Chapla,0.25,144,140,Sábado,Sí
+2025-01-25,Pan Coliza,0.25,192,198,Sábado,Sí
+2025-01-25,Pan Integral,0.25,144,148,Sábado,Sí
+2025-01-25,Pan Caracol,0.25,144,148,Sábado,Sí
+2025-01-25,Pan Hamburguesa,0.4,288,284,Sábado,Sí
+2025-01-25,Cachito,0.25,144,144,Sábado,Sí
+2025-01-25,Pan Manjar,0.3,24,22,Sábado,Sí
+2025-01-25,Leche,4.0,5,4,Sábado,Sí
+2025-01-25,Jamon,2.5,6,4,Sábado,Sí
+2025-01-25,Café,2.0,5,7,Sábado,Sí
+2025-01-25,Queso,3.0,4,2,Sábado,Sí
+2025-01-26,Pan Chabatta,0.25,768,774,Domingo,Sí
+2025-01-26,Pan Francés,0.25,648,650,Domingo,Sí
+2025-01-26,Pan Yema Largo,0.25,360,373,Domingo,Sí
+2025-01-26,Pan Yema Redondo,0.25,360,376,Domingo,Sí
+2025-01-26,Pan Chapla,0.25,144,140,Domingo,Sí
+2025-01-26,Pan Coliza,0.25,192,190,Domingo,Sí
+2025-01-26,Pan Integral,0.25,144,143,Domingo,Sí
+2025-01-26,Pan Caracol,0.25,144,140,Domingo,Sí
+2025-01-26,Pan Hamburguesa,0.4,288,285,Domingo,Sí
+2025-01-26,Cachito,0.25,144,147,Domingo,Sí
+2025-01-26,Pan Manjar,0.3,24,27,Domingo,Sí
+2025-01-26,Leche,4.0,5,2,Domingo,Sí
+2025-01-26,Jamon,2.5,6,4,Domingo,Sí
+2025-01-26,Café,2.0,5,5,Domingo,Sí
+2025-01-26,Queso,3.0,4,5,Domingo,Sí
+2025-01-27,Pan Chabatta,0.25,768,777,Lunes,No
+2025-01-27,Pan Francés,0.25,648,648,Lunes,No
+2025-01-27,Pan Yema Largo,0.25,360,356,Lunes,No
+2025-01-27,Pan Yema Redondo,0.25,360,380,Lunes,No
+2025-01-27,Pan Chapla,0.25,144,140,Lunes,No
+2025-01-27,Pan Coliza,0.25,192,198,Lunes,No
+2025-01-27,Pan Integral,0.25,144,142,Lunes,No
+2025-01-27,Pan Caracol,0.25,144,146,Lunes,No
+2025-01-27,Pan Hamburguesa,0.4,288,285,Lunes,No
+2025-01-27,Cachito,0.25,144,144,Lunes,No
+2025-01-27,Pan Manjar,0.3,24,25,Lunes,No
+2025-01-27,Leche,4.0,5,3,Lunes,No
+2025-01-27,Jamon,2.5,6,4,Lunes,No
+2025-01-27,Café,2.0,5,4,Lunes,No
+2025-01-27,Queso,3.0,4,2,Lunes,No
+2025-01-28,Pan Chabatta,0.25,768,774,Martes,No
+2025-01-28,Pan Francés,0.25,648,658,Martes,No
+2025-01-28,Pan Yema Largo,0.25,360,377,Martes,No
+2025-01-28,Pan Yema Redondo,0.25,360,377,Martes,No
+2025-01-28,Pan Chapla,0.25,144,140,Martes,No
+2025-01-28,Pan Coliza,0.25,192,193,Martes,No
+2025-01-28,Pan Integral,0.25,144,142,Martes,No
+2025-01-28,Pan Caracol,0.25,144,150,Martes,No
+2025-01-28,Pan Hamburguesa,0.4,288,280,Martes,No
+2025-01-28,Cachito,0.25,144,150,Martes,No
+2025-01-28,Pan Manjar,0.3,24,22,Martes,No
+2025-01-28,Leche,4.0,5,6,Martes,No
+2025-01-28,Jamon,2.5,6,4,Martes,No
+2025-01-28,Café,2.0,5,7,Martes,No
+2025-01-28,Queso,3.0,4,5,Martes,No
+2025-01-29,Pan Chabatta,0.25,768,771,Miércoles,No
+2025-01-29,Pan Francés,0.25,648,659,Miércoles,No
+2025-01-29,Pan Yema Largo,0.25,360,350,Miércoles,No
+2025-01-29,Pan Yema Redondo,0.25,360,361,Miércoles,No
+2025-01-29,Pan Chapla,0.25,144,147,Miércoles,No
+2025-01-29,Pan Coliza,0.25,192,200,Miércoles,No
+2025-01-29,Pan Integral,0.25,144,147,Miércoles,No
+2025-01-29,Pan Caracol,0.25,144,146,Miércoles,No
+2025-01-29,Pan Hamburguesa,0.4,288,296,Miércoles,No
+2025-01-29,Cachito,0.25,144,145,Miércoles,No
+2025-01-29,Pan Manjar,0.3,24,22,Miércoles,No
+2025-01-29,Leche,4.0,5,4,Miércoles,No
+2025-01-29,Jamon,2.5,6,6,Miércoles,No
+2025-01-29,Café,2.0,5,4,Miércoles,No
+2025-01-29,Queso,3.0,4,2,Miércoles,No
+2025-01-30,Pan Chabatta,0.25,768,760,Jueves,No
+2025-01-30,Pan Francés,0.25,648,650,Jueves,No
+2025-01-30,Pan Yema Largo,0.25,360,372,Jueves,No
+2025-01-30,Pan Yema Redondo,0.25,360,373,Jueves,No
+2025-01-30,Pan Chapla,0.25,144,140,Jueves,No
+2025-01-30,Pan Coliza,0.25,192,200,Jueves,No
+2025-01-30,Pan Integral,0.25,144,144,Jueves,No
+2025-01-30,Pan Caracol,0.25,144,143,Jueves,No
+2025-01-30,Pan Hamburguesa,0.4,288,285,Jueves,No
+2025-01-30,Cachito,0.25,144,147,Jueves,No
+2025-01-30,Pan Manjar,0.3,24,22,Jueves,No
+2025-01-30,Leche,4.0,5,5,Jueves,No
+2025-01-30,Jamon,2.5,6,6,Jueves,No
+2025-01-30,Café,2.0,5,7,Jueves,No
+2025-01-30,Queso,3.0,4,3,Jueves,No
+2025-01-31,Pan Chabatta,0.25,768,776,Viernes,No
+2025-01-31,Pan Francés,0.25,648,654,Viernes,No
+2025-01-31,Pan Yema Largo,0.25,360,369,Viernes,No
+2025-01-31,Pan Yema Redondo,0.25,360,362,Viernes,No
+2025-01-31,Pan Chapla,0.25,144,148,Viernes,No
+2025-01-31,Pan Coliza,0.25,192,199,Viernes,No
+2025-01-31,Pan Integral,0.25,144,145,Viernes,No
+2025-01-31,Pan Caracol,0.25,144,140,Viernes,No
+2025-01-31,Pan Hamburguesa,0.4,288,292,Viernes,No
+2025-01-31,Cachito,0.25,144,147,Viernes,No
+2025-01-31,Pan Manjar,0.3,24,26,Viernes,No
+2025-01-31,Leche,4.0,5,4,Viernes,No
+2025-01-31,Jamon,2.5,6,6,Viernes,No
+2025-01-31,Café,2.0,5,4,Viernes,No
+2025-01-31,Queso,3.0,4,5,Viernes,No
+2025-02-01,Pan Chabatta,0.25,768,766,Sábado,Sí
+2025-02-01,Pan Francés,0.25,648,649,Sábado,Sí
+2025-02-01,Pan Yema Largo,0.25,360,368,Sábado,Sí
+2025-02-01,Pan Yema Redondo,0.25,360,370,Sábado,Sí
+2025-02-01,Pan Chapla,0.25,144,144,Sábado,Sí
+2025-02-01,Pan Coliza,0.25,192,200,Sábado,Sí
+2025-02-01,Pan Integral,0.25,144,147,Sábado,Sí
+2025-02-01,Pan Caracol,0.25,144,147,Sábado,Sí
+2025-02-01,Pan Hamburguesa,0.4,288,286,Sábado,Sí
+2025-02-01,Cachito,0.25,144,144,Sábado,Sí
+2025-02-01,Pan Manjar,0.3,24,25,Sábado,Sí
+2025-02-01,Leche,4.0,5,2,Sábado,Sí
+2025-02-01,Jamon,2.5,6,4,Sábado,Sí
+2025-02-01,Café,2.0,5,4,Sábado,Sí
+2025-02-01,Queso,3.0,4,4,Sábado,Sí
+2025-02-02,Pan Chabatta,0.25,768,775,Domingo,Sí
+2025-02-02,Pan Francés,0.25,648,650,Domingo,Sí
+2025-02-02,Pan Yema Largo,0.25,360,377,Domingo,Sí
+2025-02-02,Pan Yema Redondo,0.25,360,373,Domingo,Sí
+2025-02-02,Pan Chapla,0.25,144,142,Domingo,Sí
+2025-02-02,Pan Coliza,0.25,192,190,Domingo,Sí
+2025-02-02,Pan Integral,0.25,144,143,Domingo,Sí
+2025-02-02,Pan Caracol,0.25,144,140,Domingo,Sí
+2025-02-02,Pan Hamburguesa,0.4,288,289,Domingo,Sí
+2025-02-02,Cachito,0.25,144,147,Domingo,Sí
+2025-02-02,Pan Manjar,0.3,24,28,Domingo,Sí
+2025-02-02,Leche,4.0,5,2,Domingo,Sí
+2025-02-02,Jamon,2.5,6,4,Domingo,Sí
+2025-02-02,Café,2.0,5,7,Domingo,Sí
+2025-02-02,Queso,3.0,4,3,Domingo,Sí
+2025-02-03,Pan Chabatta,0.25,768,779,Lunes,No
+2025-02-03,Pan Francés,0.25,648,645,Lunes,No
+2025-02-03,Pan Yema Largo,0.25,360,350,Lunes,No
+2025-02-03,Pan Yema Redondo,0.25,360,380,Lunes,No
+2025-02-03,Pan Chapla,0.25,144,142,Lunes,No
+2025-02-03,Pan Coliza,0.25,192,200,Lunes,No
+2025-02-03,Pan Integral,0.25,144,144,Lunes,No
+2025-02-03,Pan Caracol,0.25,144,150,Lunes,No
+2025-02-03,Pan Hamburguesa,0.4,288,290,Lunes,No
+2025-02-03,Cachito,0.25,144,142,Lunes,No
+2025-02-03,Pan Manjar,0.3,24,24,Lunes,No
+2025-02-03,Leche,4.0,5,6,Lunes,No
+2025-02-03,Jamon,2.5,6,4,Lunes,No
+2025-02-03,Café,2.0,5,4,Lunes,No
+2025-02-03,Queso,3.0,4,2,Lunes,No
+2025-02-04,Pan Chabatta,0.25,768,777,Martes,No
+2025-02-04,Pan Francés,0.25,648,660,Martes,No
+2025-02-04,Pan Yema Largo,0.25,360,380,Martes,No
+2025-02-04,Pan Yema Redondo,0.25,360,377,Martes,No
+2025-02-04,Pan Chapla,0.25,144,144,Martes,No
+2025-02-04,Pan Coliza,0.25,192,195,Martes,No
+2025-02-04,Pan Integral,0.25,144,140,Martes,No
+2025-02-04,Pan Caracol,0.25,144,149,Martes,No
+2025-02-04,Pan Hamburguesa,0.4,288,280,Martes,No
+2025-02-04,Cachito,0.25,144,150,Martes,No
+2025-02-04,Pan Manjar,0.3,24,26,Martes,No
+2025-02-04,Leche,4.0,5,6,Martes,No
+2025-02-04,Jamon,2.5,6,4,Martes,No
+2025-02-04,Café,2.0,5,7,Martes,No
+2025-02-04,Queso,3.0,4,4,Martes,No
+2025-02-05,Pan Chabatta,0.25,768,775,Miércoles,No
+2025-02-05,Pan Francés,0.25,648,654,Miércoles,No
+2025-02-05,Pan Yema Largo,0.25,360,353,Miércoles,No
+2025-02-05,Pan Yema Redondo,0.25,360,358,Miércoles,No
+2025-02-05,Pan Chapla,0.25,144,149,Miércoles,No
+2025-02-05,Pan Coliza,0.25,192,199,Miércoles,No
+2025-02-05,Pan Integral,0.25,144,150,Miércoles,No
+2025-02-05,Pan Caracol,0.25,144,149,Miércoles,No
+2025-02-05,Pan Hamburguesa,0.4,288,294,Miércoles,No
+2025-02-05,Cachito,0.25,144,144,Miércoles,No
+2025-02-05,Pan Manjar,0.3,24,22,Miércoles,No
+2025-02-05,Leche,4.0,5,2,Miércoles,No
+2025-02-05,Jamon,2.5,6,4,Miércoles,No
+2025-02-05,Café,2.0,5,4,Miércoles,No
+2025-02-05,Queso,3.0,4,2,Miércoles,No
+2025-02-06,Pan Chabatta,0.25,768,764,Jueves,No
+2025-02-06,Pan Francés,0.25,648,650,Jueves,No
+2025-02-06,Pan Yema Largo,0.25,360,373,Jueves,No
+2025-02-06,Pan Yema Redondo,0.25,360,373,Jueves,No
+2025-02-06,Pan Chapla,0.25,144,145,Jueves,No
+2025-02-06,Pan Coliza,0.25,192,198,Jueves,No
+2025-02-06,Pan Integral,0.25,144,150,Jueves,No
+2025-02-06,Pan Caracol,0.25,144,147,Jueves,No
+2025-02-06,Pan Hamburguesa,0.4,288,284,Jueves,No
+2025-02-06,Cachito,0.25,144,149,Jueves,No
+2025-02-06,Pan Manjar,0.3,24,22,Jueves,No
+2025-02-06,Leche,4.0,5,6,Jueves,No
+2025-02-06,Jamon,2.5,6,4,Jueves,No
+2025-02-06,Café,2.0,5,6,Jueves,No
+2025-02-06,Queso,3.0,4,5,Jueves,No
+2025-02-07,Pan Chabatta,0.25,768,777,Viernes,No
+2025-02-07,Pan Francés,0.25,648,648,Viernes,No
+2025-02-07,Pan Yema Largo,0.25,360,371,Viernes,No
+2025-02-07,Pan Yema Redondo,0.25,360,360,Viernes,No
+2025-02-07,Pan Chapla,0.25,144,150,Viernes,No
+2025-02-07,Pan Coliza,0.25,192,196,Viernes,No
+2025-02-07,Pan Integral,0.25,144,143,Viernes,No
+2025-02-07,Pan Caracol,0.25,144,142,Viernes,No
+2025-02-07,Pan Hamburguesa,0.4,288,294,Viernes,No
+2025-02-07,Cachito,0.25,144,147,Viernes,No
+2025-02-07,Pan Manjar,0.3,24,22,Viernes,No
+2025-02-07,Leche,4.0,5,3,Viernes,No
+2025-02-07,Jamon,2.5,6,4,Viernes,No
+2025-02-07,Café,2.0,5,4,Viernes,No
+2025-02-07,Queso,3.0,4,5,Viernes,No
+2025-02-08,Pan Chabatta,0.25,768,764,Sábado,Sí
+2025-02-08,Pan Francés,0.25,648,649,Sábado,Sí
+2025-02-08,Pan Yema Largo,0.25,360,372,Sábado,Sí
+2025-02-08,Pan Yema Redondo,0.25,360,373,Sábado,Sí
+2025-02-08,Pan Chapla,0.25,144,141,Sábado,Sí
+2025-02-08,Pan Coliza,0.25,192,199,Sábado,Sí
+2025-02-08,Pan Integral,0.25,144,146,Sábado,Sí
+2025-02-08,Pan Caracol,0.25,144,150,Sábado,Sí
+2025-02-08,Pan Hamburguesa,0.4,288,283,Sábado,Sí
+2025-02-08,Cachito,0.25,144,144,Sábado,Sí
+2025-02-08,Pan Manjar,0.3,24,26,Sábado,Sí
+2025-02-08,Leche,4.0,5,2,Sábado,Sí
+2025-02-08,Jamon,2.5,6,5,Sábado,Sí
+2025-02-08,Café,2.0,5,7,Sábado,Sí
+2025-02-08,Queso,3.0,4,5,Sábado,Sí
+2025-02-09,Pan Chabatta,0.25,768,772,Domingo,Sí
+2025-02-09,Pan Francés,0.25,648,648,Domingo,Sí
+2025-02-09,Pan Yema Largo,0.25,360,376,Domingo,Sí
+2025-02-09,Pan Yema Redondo,0.25,360,376,Domingo,Sí
+2025-02-09,Pan Chapla,0.25,144,142,Domingo,Sí
+2025-02-09,Pan Coliza,0.25,192,194,Domingo,Sí
+2025-02-09,Pan Integral,0.25,144,147,Domingo,Sí
+2025-02-09,Pan Caracol,0.25,144,141,Domingo,Sí
+2025-02-09,Pan Hamburguesa,0.4,288,286,Domingo,Sí
+2025-02-09,Cachito,0.25,144,150,Domingo,Sí
+2025-02-09,Pan Manjar,0.3,24,28,Domingo,Sí
+2025-02-09,Leche,4.0,5,2,Domingo,Sí
+2025-02-09,Jamon,2.5,6,5,Domingo,Sí
+2025-02-09,Café,2.0,5,6,Domingo,Sí
+2025-02-09,Queso,3.0,4,4,Domingo,Sí
+2025-02-10,Pan Chabatta,0.25,768,780,Lunes,No
+2025-02-10,Pan Francés,0.25,648,642,Lunes,No
+2025-02-10,Pan Yema Largo,0.25,360,354,Lunes,No
+2025-02-10,Pan Yema Redondo,0.25,360,380,Lunes,No
+2025-02-10,Pan Chapla,0.25,144,144,Lunes,No
+2025-02-10,Pan Coliza,0.25,192,199,Lunes,No
+2025-02-10,Pan Integral,0.25,144,145,Lunes,No
+2025-02-10,Pan Caracol,0.25,144,149,Lunes,No
+2025-02-10,Pan Hamburguesa,0.4,288,285,Lunes,No
+2025-02-10,Cachito,0.25,144,148,Lunes,No
+2025-02-10,Pan Manjar,0.3,24,28,Lunes,No
+2025-02-10,Leche,4.0,5,3,Lunes,No
+2025-02-10,Jamon,2.5,6,4,Lunes,No
+2025-02-10,Café,2.0,5,5,Lunes,No
+2025-02-10,Queso,3.0,4,2,Lunes,No
+2025-02-11,Pan Chabatta,0.25,768,778,Martes,No
+2025-02-11,Pan Francés,0.25,648,660,Martes,No
+2025-02-11,Pan Yema Largo,0.25,360,378,Martes,No
+2025-02-11,Pan Yema Redondo,0.25,360,372,Martes,No
+2025-02-11,Pan Chapla,0.25,144,144,Martes,No
+2025-02-11,Pan Coliza,0.25,192,192,Martes,No
+2025-02-11,Pan Integral,0.25,144,143,Martes,No
+2025-02-11,Pan Caracol,0.25,144,146,Martes,No
+2025-02-11,Pan Hamburguesa,0.4,288,281,Martes,No
+2025-02-11,Cachito,0.25,144,149,Martes,No
+2025-02-11,Pan Manjar,0.3,24,22,Martes,No
+2025-02-11,Leche,4.0,5,2,Martes,No
+2025-02-11,Jamon,2.5,6,4,Martes,No
+2025-02-11,Café,2.0,5,6,Martes,No
+2025-02-11,Queso,3.0,4,4,Martes,No
+2025-02-12,Pan Chabatta,0.25,768,775,Miércoles,No
+2025-02-12,Pan Francés,0.25,648,659,Miércoles,No
+2025-02-12,Pan Yema Largo,0.25,360,350,Miércoles,No
+2025-02-12,Pan Yema Redondo,0.25,360,361,Miércoles,No
+2025-02-12,Pan Chapla,0.25,144,148,Miércoles,No
+2025-02-12,Pan Coliza,0.25,192,200,Miércoles,No
+2025-02-12,Pan Integral,0.25,144,150,Miércoles,No
+2025-02-12,Pan Caracol,0.25,144,150,Miércoles,No
+2025-02-12,Pan Hamburguesa,0.4,288,295,Miércoles,No
+2025-02-12,Cachito,0.25,144,145,Miércoles,No
+2025-02-12,Pan Manjar,0.3,24,23,Miércoles,No
+2025-02-12,Leche,4.0,5,2,Miércoles,No
+2025-02-12,Jamon,2.5,6,6,Miércoles,No
+2025-02-12,Café,2.0,5,5,Miércoles,No
+2025-02-12,Queso,3.0,4,4,Miércoles,No
+2025-02-13,Pan Chabatta,0.25,768,761,Jueves,No
+2025-02-13,Pan Francés,0.25,648,651,Jueves,No
+2025-02-13,Pan Yema Largo,0.25,360,373,Jueves,No
+2025-02-13,Pan Yema Redondo,0.25,360,371,Jueves,No
+2025-02-13,Pan Chapla,0.25,144,142,Jueves,No
+2025-02-13,Pan Coliza,0.25,192,197,Jueves,No
+2025-02-13,Pan Integral,0.25,144,145,Jueves,No
+2025-02-13,Pan Caracol,0.25,144,144,Jueves,No
+2025-02-13,Pan Hamburguesa,0.4,288,286,Jueves,No
+2025-02-13,Cachito,0.25,144,149,Jueves,No
+2025-02-13,Pan Manjar,0.3,24,22,Jueves,No
+2025-02-13,Leche,4.0,5,6,Jueves,No
+2025-02-13,Jamon,2.5,6,4,Jueves,No
+2025-02-13,Café,2.0,5,4,Jueves,No
+2025-02-13,Queso,3.0,4,2,Jueves,No
+2025-02-14,Pan Chabatta,0.25,768,774,Viernes,No
+2025-02-14,Pan Francés,0.25,648,654,Viernes,No
+2025-02-14,Pan Yema Largo,0.25,360,368,Viernes,No
+2025-02-14,Pan Yema Redondo,0.25,360,361,Viernes,No
+2025-02-14,Pan Chapla,0.25,144,150,Viernes,No
+2025-02-14,Pan Coliza,0.25,192,195,Viernes,No
+2025-02-14,Pan Integral,0.25,144,141,Viernes,No
+2025-02-14,Pan Caracol,0.25,144,140,Viernes,No
+2025-02-14,Pan Hamburguesa,0.4,288,298,Viernes,No
+2025-02-14,Cachito,0.25,144,148,Viernes,No
+2025-02-14,Pan Manjar,0.3,24,22,Viernes,No
+2025-02-14,Leche,4.0,5,2,Viernes,No
+2025-02-14,Jamon,2.5,6,4,Viernes,No
+2025-02-14,Café,2.0,5,7,Viernes,No
+2025-02-14,Queso,3.0,4,4,Viernes,No
+2025-02-15,Pan Chabatta,0.25,768,765,Sábado,Sí
+2025-02-15,Pan Francés,0.25,648,644,Sábado,Sí
+2025-02-15,Pan Yema Largo,0.25,360,373,Sábado,Sí
+2025-02-15,Pan Yema Redondo,0.25,360,375,Sábado,Sí
+2025-02-15,Pan Chapla,0.25,144,143,Sábado,Sí
+2025-02-15,Pan Coliza,0.25,192,200,Sábado,Sí
+2025-02-15,Pan Integral,0.25,144,149,Sábado,Sí
+2025-02-15,Pan Caracol,0.25,144,148,Sábado,Sí
+2025-02-15,Pan Hamburguesa,0.4,288,287,Sábado,Sí
+2025-02-15,Cachito,0.25,144,146,Sábado,Sí
+2025-02-15,Pan Manjar,0.3,24,25,Sábado,Sí
+2025-02-15,Leche,4.0,5,2,Sábado,Sí
+2025-02-15,Jamon,2.5,6,6,Sábado,Sí
+2025-02-15,Café,2.0,5,4,Sábado,Sí
+2025-02-15,Queso,3.0,4,4,Sábado,Sí
+2025-02-16,Pan Chabatta,0.25,768,777,Domingo,Sí
+2025-02-16,Pan Francés,0.25,648,649,Domingo,Sí
+2025-02-16,Pan Yema Largo,0.25,360,379,Domingo,Sí
+2025-02-16,Pan Yema Redondo,0.25,360,376,Domingo,Sí
+2025-02-16,Pan Chapla,0.25,144,144,Domingo,Sí
+2025-02-16,Pan Coliza,0.25,192,194,Domingo,Sí
+2025-02-16,Pan Integral,0.25,144,145,Domingo,Sí
+2025-02-16,Pan Caracol,0.25,144,143,Domingo,Sí
+2025-02-16,Pan Hamburguesa,0.4,288,289,Domingo,Sí
+2025-02-16,Cachito,0.25,144,150,Domingo,Sí
+2025-02-16,Pan Manjar,0.3,24,28,Domingo,Sí
+2025-02-16,Leche,4.0,5,2,Domingo,Sí
+2025-02-16,Jamon,2.5,6,6,Domingo,Sí
+2025-02-16,Café,2.0,5,7,Domingo,Sí
+2025-02-16,Queso,3.0,4,5,Domingo,Sí
+2025-02-17,Pan Chabatta,0.25,768,777,Lunes,No
+2025-02-17,Pan Francés,0.25,648,643,Lunes,No
+2025-02-17,Pan Yema Largo,0.25,360,356,Lunes,No
+2025-02-17,Pan Yema Redondo,0.25,360,379,Lunes,No
+2025-02-17,Pan Chapla,0.25,144,143,Lunes,No
+2025-02-17,Pan Coliza,0.25,192,196,Lunes,No
+2025-02-17,Pan Integral,0.25,144,148,Lunes,No
+2025-02-17,Pan Caracol,0.25,144,146,Lunes,No
+2025-02-17,Pan Hamburguesa,0.4,288,289,Lunes,No
+2025-02-17,Cachito,0.25,144,143,Lunes,No
+2025-02-17,Pan Manjar,0.3,24,27,Lunes,No
+2025-02-17,Leche,4.0,5,5,Lunes,No
+2025-02-17,Jamon,2.5,6,4,Lunes,No
+2025-02-17,Café,2.0,5,4,Lunes,No
+2025-02-17,Queso,3.0,4,3,Lunes,No
+2025-02-18,Pan Chabatta,0.25,768,775,Martes,No
+2025-02-18,Pan Francés,0.25,648,657,Martes,No
+2025-02-18,Pan Yema Largo,0.25,360,380,Martes,No
+2025-02-18,Pan Yema Redondo,0.25,360,372,Martes,No
+2025-02-18,Pan Chapla,0.25,144,141,Martes,No
+2025-02-18,Pan Coliza,0.25,192,193,Martes,No
+2025-02-18,Pan Integral,0.25,144,143,Martes,No
+2025-02-18,Pan Caracol,0.25,144,150,Martes,No
+2025-02-18,Pan Hamburguesa,0.4,288,280,Martes,No
+2025-02-18,Cachito,0.25,144,150,Martes,No
+2025-02-18,Pan Manjar,0.3,24,25,Martes,No
+2025-02-18,Leche,4.0,5,5,Martes,No
+2025-02-18,Jamon,2.5,6,4,Martes,No
+2025-02-18,Café,2.0,5,5,Martes,No
+2025-02-18,Queso,3.0,4,2,Martes,No
+2025-02-19,Pan Chabatta,0.25,768,775,Miércoles,No
+2025-02-19,Pan Francés,0.25,648,660,Miércoles,No
+2025-02-19,Pan Yema Largo,0.25,360,354,Miércoles,No
+2025-02-19,Pan Yema Redondo,0.25,360,361,Miércoles,No
+2025-02-19,Pan Chapla,0.25,144,145,Miércoles,No
+2025-02-19,Pan Coliza,0.25,192,199,Miércoles,No
+2025-02-19,Pan Integral,0.25,144,150,Miércoles,No
+2025-02-19,Pan Caracol,0.25,144,150,Miércoles,No
+2025-02-19,Pan Hamburguesa,0.4,288,294,Miércoles,No
+2025-02-19,Cachito,0.25,144,140,Miércoles,No
+2025-02-19,Pan Manjar,0.3,24,22,Miércoles,No
+2025-02-19,Leche,4.0,5,2,Miércoles,No
+2025-02-19,Jamon,2.5,6,6,Miércoles,No
+2025-02-19,Café,2.0,5,4,Miércoles,No
+2025-02-19,Queso,3.0,4,2,Miércoles,No
+2025-02-20,Pan Chabatta,0.25,768,763,Jueves,No
+2025-02-20,Pan Francés,0.25,648,652,Jueves,No
+2025-02-20,Pan Yema Largo,0.25,360,368,Jueves,No
+2025-02-20,Pan Yema Redondo,0.25,360,374,Jueves,No
+2025-02-20,Pan Chapla,0.25,144,141,Jueves,No
+2025-02-20,Pan Coliza,0.25,192,200,Jueves,No
+2025-02-20,Pan Integral,0.25,144,144,Jueves,No
+2025-02-20,Pan Caracol,0.25,144,142,Jueves,No
+2025-02-20,Pan Hamburguesa,0.4,288,284,Jueves,No
+2025-02-20,Cachito,0.25,144,147,Jueves,No
+2025-02-20,Pan Manjar,0.3,24,22,Jueves,No
+2025-02-20,Leche,4.0,5,4,Jueves,No
+2025-02-20,Jamon,2.5,6,5,Jueves,No
+2025-02-20,Café,2.0,5,4,Jueves,No
+2025-02-20,Queso,3.0,4,3,Jueves,No
+2025-02-21,Pan Chabatta,0.25,768,775,Viernes,No
+2025-02-21,Pan Francés,0.25,648,648,Viernes,No
+2025-02-21,Pan Yema Largo,0.25,360,368,Viernes,No
+2025-02-21,Pan Yema Redondo,0.25,360,356,Viernes,No
+2025-02-21,Pan Chapla,0.25,144,148,Viernes,No
+2025-02-21,Pan Coliza,0.25,192,195,Viernes,No
+2025-02-21,Pan Integral,0.25,144,144,Viernes,No
+2025-02-21,Pan Caracol,0.25,144,140,Viernes,No
+2025-02-21,Pan Hamburguesa,0.4,288,293,Viernes,No
+2025-02-21,Cachito,0.25,144,144,Viernes,No
+2025-02-21,Pan Manjar,0.3,24,22,Viernes,No
+2025-02-21,Leche,4.0,5,6,Viernes,No
+2025-02-21,Jamon,2.5,6,6,Viernes,No
+2025-02-21,Café,2.0,5,7,Viernes,No
+2025-02-21,Queso,3.0,4,4,Viernes,No
+2025-02-22,Pan Chabatta,0.25,768,768,Sábado,Sí
+2025-02-22,Pan Francés,0.25,648,647,Sábado,Sí
+2025-02-22,Pan Yema Largo,0.25,360,368,Sábado,Sí
+2025-02-22,Pan Yema Redondo,0.25,360,375,Sábado,Sí
+2025-02-22,Pan Chapla,0.25,144,143,Sábado,Sí
+2025-02-22,Pan Coliza,0.25,192,200,Sábado,Sí
+2025-02-22,Pan Integral,0.25,144,146,Sábado,Sí
+2025-02-22,Pan Caracol,0.25,144,149,Sábado,Sí
+2025-02-22,Pan Hamburguesa,0.4,288,282,Sábado,Sí
+2025-02-22,Cachito,0.25,144,150,Sábado,Sí
+2025-02-22,Pan Manjar,0.3,24,26,Sábado,Sí
+2025-02-22,Leche,4.0,5,2,Sábado,Sí
+2025-02-22,Jamon,2.5,6,6,Sábado,Sí
+2025-02-22,Café,2.0,5,7,Sábado,Sí
+2025-02-22,Queso,3.0,4,2,Sábado,Sí
+2025-02-23,Pan Chabatta,0.25,768,772,Domingo,Sí
+2025-02-23,Pan Francés,0.25,648,647,Domingo,Sí
+2025-02-23,Pan Yema Largo,0.25,360,379,Domingo,Sí
+2025-02-23,Pan Yema Redondo,0.25,360,378,Domingo,Sí
+2025-02-23,Pan Chapla,0.25,144,140,Domingo,Sí
+2025-02-23,Pan Coliza,0.25,192,192,Domingo,Sí
+2025-02-23,Pan Integral,0.25,144,147,Domingo,Sí
+2025-02-23,Pan Caracol,0.25,144,143,Domingo,Sí
+2025-02-23,Pan Hamburguesa,0.4,288,288,Domingo,Sí
+2025-02-23,Cachito,0.25,144,150,Domingo,Sí
+2025-02-23,Pan Manjar,0.3,24,28,Domingo,Sí
+2025-02-23,Leche,4.0,5,4,Domingo,Sí
+2025-02-23,Jamon,2.5,6,4,Domingo,Sí
+2025-02-23,Café,2.0,5,6,Domingo,Sí
+2025-02-23,Queso,3.0,4,3,Domingo,Sí
+2025-02-24,Pan Chabatta,0.25,768,777,Lunes,No
+2025-02-24,Pan Francés,0.25,648,646,Lunes,No
+2025-02-24,Pan Yema Largo,0.25,360,354,Lunes,No
+2025-02-24,Pan Yema Redondo,0.25,360,378,Lunes,No
+2025-02-24,Pan Chapla,0.25,144,145,Lunes,No
+2025-02-24,Pan Coliza,0.25,192,196,Lunes,No
+2025-02-24,Pan Integral,0.25,144,143,Lunes,No
+2025-02-24,Pan Caracol,0.25,144,150,Lunes,No
+2025-02-24,Pan Hamburguesa,0.4,288,289,Lunes,No
+2025-02-24,Cachito,0.25,144,146,Lunes,No
+2025-02-24,Pan Manjar,0.3,24,28,Lunes,No
+2025-02-24,Leche,4.0,5,6,Lunes,No
+2025-02-24,Jamon,2.5,6,6,Lunes,No
+2025-02-24,Café,2.0,5,7,Lunes,No
+2025-02-24,Queso,3.0,4,2,Lunes,No
+2025-02-25,Pan Chabatta,0.25,768,779,Martes,No
+2025-02-25,Pan Francés,0.25,648,660,Martes,No
+2025-02-25,Pan Yema Largo,0.25,360,378,Martes,No
+2025-02-25,Pan Yema Redondo,0.25,360,378,Martes,No
+2025-02-25,Pan Chapla,0.25,144,141,Martes,No
+2025-02-25,Pan Coliza,0.25,192,192,Martes,No
+2025-02-25,Pan Integral,0.25,144,146,Martes,No
+2025-02-25,Pan Caracol,0.25,144,146,Martes,No
+2025-02-25,Pan Hamburguesa,0.4,288,280,Martes,No
+2025-02-25,Cachito,0.25,144,147,Martes,No
+2025-02-25,Pan Manjar,0.3,24,22,Martes,No
+2025-02-25,Leche,4.0,5,3,Martes,No
+2025-02-25,Jamon,2.5,6,4,Martes,No
+2025-02-25,Café,2.0,5,4,Martes,No
+2025-02-25,Queso,3.0,4,5,Martes,No
+2025-02-26,Pan Chabatta,0.25,768,775,Miércoles,No
+2025-02-26,Pan Francés,0.25,648,658,Miércoles,No
+2025-02-26,Pan Yema Largo,0.25,360,350,Miércoles,No
+2025-02-26,Pan Yema Redondo,0.25,360,359,Miércoles,No
+2025-02-26,Pan Chapla,0.25,144,150,Miércoles,No
+2025-02-26,Pan Coliza,0.25,192,200,Miércoles,No
+2025-02-26,Pan Integral,0.25,144,147,Miércoles,No
+2025-02-26,Pan Caracol,0.25,144,145,Miércoles,No
+2025-02-26,Pan Hamburguesa,0.4,288,297,Miércoles,No
+2025-02-26,Cachito,0.25,144,142,Miércoles,No
+2025-02-26,Pan Manjar,0.3,24,23,Miércoles,No
+2025-02-26,Leche,4.0,5,2,Miércoles,No
+2025-02-26,Jamon,2.5,6,4,Miércoles,No
+2025-02-26,Café,2.0,5,6,Miércoles,No
+2025-02-26,Queso,3.0,4,2,Miércoles,No
+2025-02-27,Pan Chabatta,0.25,768,762,Jueves,No
+2025-02-27,Pan Francés,0.25,648,656,Jueves,No
+2025-02-27,Pan Yema Largo,0.25,360,372,Jueves,No
+2025-02-27,Pan Yema Redondo,0.25,360,375,Jueves,No
+2025-02-27,Pan Chapla,0.25,144,143,Jueves,No
+2025-02-27,Pan Coliza,0.25,192,197,Jueves,No
+2025-02-27,Pan Integral,0.25,144,147,Jueves,No
+2025-02-27,Pan Caracol,0.25,144,142,Jueves,No
+2025-02-27,Pan Hamburguesa,0.4,288,286,Jueves,No
+2025-02-27,Cachito,0.25,144,146,Jueves,No
+2025-02-27,Pan Manjar,0.3,24,25,Jueves,No
+2025-02-27,Leche,4.0,5,3,Jueves,No
+2025-02-27,Jamon,2.5,6,4,Jueves,No
+2025-02-27,Café,2.0,5,5,Jueves,No
+2025-02-27,Queso,3.0,4,3,Jueves,No
+2025-02-28,Pan Chabatta,0.25,768,778,Viernes,No
+2025-02-28,Pan Francés,0.25,648,652,Viernes,No
+2025-02-28,Pan Yema Largo,0.25,360,371,Viernes,No
+2025-02-28,Pan Yema Redondo,0.25,360,357,Viernes,No
+2025-02-28,Pan Chapla,0.25,144,150,Viernes,No
+2025-02-28,Pan Coliza,0.25,192,195,Viernes,No
+2025-02-28,Pan Integral,0.25,144,142,Viernes,No
+2025-02-28,Pan Caracol,0.25,144,144,Viernes,No
+2025-02-28,Pan Hamburguesa,0.4,288,297,Viernes,No
+2025-02-28,Cachito,0.25,144,150,Viernes,No
+2025-02-28,Pan Manjar,0.3,24,22,Viernes,No
+2025-02-28,Leche,4.0,5,6,Viernes,No
+2025-02-28,Jamon,2.5,6,5,Viernes,No
+2025-02-28,Café,2.0,5,7,Viernes,No
+2025-02-28,Queso,3.0,4,2,Viernes,No
+2025-03-01,Pan Chabatta,0.25,768,769,Sábado,Sí
+2025-03-01,Pan Francés,0.25,648,645,Sábado,Sí
+2025-03-01,Pan Yema Largo,0.25,360,368,Sábado,Sí
+2025-03-01,Pan Yema Redondo,0.25,360,374,Sábado,Sí
+2025-03-01,Pan Chapla,0.25,144,140,Sábado,Sí
+2025-03-01,Pan Coliza,0.25,192,199,Sábado,Sí
+2025-03-01,Pan Integral,0.25,144,149,Sábado,Sí
+2025-03-01,Pan Caracol,0.25,144,148,Sábado,Sí
+2025-03-01,Pan Hamburguesa,0.4,288,284,Sábado,Sí
+2025-03-01,Cachito,0.25,144,147,Sábado,Sí
+2025-03-01,Pan Manjar,0.3,24,24,Sábado,Sí
+2025-03-01,Leche,4.0,5,2,Sábado,Sí
+2025-03-01,Jamon,2.5,6,5,Sábado,Sí
+2025-03-01,Café,2.0,5,7,Sábado,Sí
+2025-03-01,Queso,3.0,4,3,Sábado,Sí
+2025-03-02,Pan Chabatta,0.25,768,775,Domingo,Sí
+2025-03-02,Pan Francés,0.25,648,653,Domingo,Sí
+2025-03-02,Pan Yema Largo,0.25,360,378,Domingo,Sí
+2025-03-02,Pan Yema Redondo,0.25,360,379,Domingo,Sí
+2025-03-02,Pan Chapla,0.25,144,145,Domingo,Sí
+2025-03-02,Pan Coliza,0.25,192,190,Domingo,Sí
+2025-03-02,Pan Integral,0.25,144,147,Domingo,Sí
+2025-03-02,Pan Caracol,0.25,144,140,Domingo,Sí
+2025-03-02,Pan Hamburguesa,0.4,288,286,Domingo,Sí
+2025-03-02,Cachito,0.25,144,148,Domingo,Sí
+2025-03-02,Pan Manjar,0.3,24,27,Domingo,Sí
+2025-03-02,Leche,4.0,5,6,Domingo,Sí
+2025-03-02,Jamon,2.5,6,4,Domingo,Sí
+2025-03-02,Café,2.0,5,7,Domingo,Sí
+2025-03-02,Queso,3.0,4,5,Domingo,Sí
+2025-03-03,Pan Chabatta,0.25,768,780,Lunes,No
+2025-03-03,Pan Francés,0.25,648,642,Lunes,No
+2025-03-03,Pan Yema Largo,0.25,360,350,Lunes,No
+2025-03-03,Pan Yema Redondo,0.25,360,377,Lunes,No
+2025-03-03,Pan Chapla,0.25,144,141,Lunes,No
+2025-03-03,Pan Coliza,0.25,192,195,Lunes,No
+2025-03-03,Pan Integral,0.25,144,148,Lunes,No
+2025-03-03,Pan Caracol,0.25,144,146,Lunes,No
+2025-03-03,Pan Hamburguesa,0.4,288,288,Lunes,No
+2025-03-03,Cachito,0.25,144,142,Lunes,No
+2025-03-03,Pan Manjar,0.3,24,28,Lunes,No
+2025-03-03,Leche,4.0,5,6,Lunes,No
+2025-03-03,Jamon,2.5,6,4,Lunes,No
+2025-03-03,Café,2.0,5,5,Lunes,No
+2025-03-03,Queso,3.0,4,5,Lunes,No
+2025-03-04,Pan Chabatta,0.25,768,778,Martes,No
+2025-03-04,Pan Francés,0.25,648,656,Martes,No
+2025-03-04,Pan Yema Largo,0.25,360,380,Martes,No
+2025-03-04,Pan Yema Redondo,0.25,360,373,Martes,No
+2025-03-04,Pan Chapla,0.25,144,143,Martes,No
+2025-03-04,Pan Coliza,0.25,192,192,Martes,No
+2025-03-04,Pan Integral,0.25,144,143,Martes,No
+2025-03-04,Pan Caracol,0.25,144,146,Martes,No
+2025-03-04,Pan Hamburguesa,0.4,288,280,Martes,No
+2025-03-04,Cachito,0.25,144,149,Martes,No
+2025-03-04,Pan Manjar,0.3,24,25,Martes,No
+2025-03-04,Leche,4.0,5,5,Martes,No
+2025-03-04,Jamon,2.5,6,4,Martes,No
+2025-03-04,Café,2.0,5,7,Martes,No
+2025-03-04,Queso,3.0,4,4,Martes,No
+2025-03-05,Pan Chabatta,0.25,768,774,Miércoles,No
+2025-03-05,Pan Francés,0.25,648,658,Miércoles,No
+2025-03-05,Pan Yema Largo,0.25,360,351,Miércoles,No
+2025-03-05,Pan Yema Redondo,0.25,360,357,Miércoles,No
+2025-03-05,Pan Chapla,0.25,144,145,Miércoles,No
+2025-03-05,Pan Coliza,0.25,192,200,Miércoles,No
+2025-03-05,Pan Integral,0.25,144,149,Miércoles,No
+2025-03-05,Pan Caracol,0.25,144,148,Miércoles,No
+2025-03-05,Pan Hamburguesa,0.4,288,295,Miércoles,No
+2025-03-05,Cachito,0.25,144,140,Miércoles,No
+2025-03-05,Pan Manjar,0.3,24,22,Miércoles,No
+2025-03-05,Leche,4.0,5,2,Miércoles,No
+2025-03-05,Jamon,2.5,6,5,Miércoles,No
+2025-03-05,Café,2.0,5,4,Miércoles,No
+2025-03-05,Queso,3.0,4,2,Miércoles,No
+2025-03-06,Pan Chabatta,0.25,768,762,Jueves,No
+2025-03-06,Pan Francés,0.25,648,652,Jueves,No
+2025-03-06,Pan Yema Largo,0.25,360,368,Jueves,No
+2025-03-06,Pan Yema Redondo,0.25,360,372,Jueves,No
+2025-03-06,Pan Chapla,0.25,144,145,Jueves,No
+2025-03-06,Pan Coliza,0.25,192,199,Jueves,No
+2025-03-06,Pan Integral,0.25,144,145,Jueves,No
+2025-03-06,Pan Caracol,0.25,144,143,Jueves,No
+2025-03-06,Pan Hamburguesa,0.4,288,287,Jueves,No
+2025-03-06,Cachito,0.25,144,147,Jueves,No
+2025-03-06,Pan Manjar,0.3,24,24,Jueves,No
+2025-03-06,Leche,4.0,5,5,Jueves,No
+2025-03-06,Jamon,2.5,6,4,Jueves,No
+2025-03-06,Café,2.0,5,7,Jueves,No
+2025-03-06,Queso,3.0,4,5,Jueves,No
+2025-03-07,Pan Chabatta,0.25,768,773,Viernes,No
+2025-03-07,Pan Francés,0.25,648,650,Viernes,No
+2025-03-07,Pan Yema Largo,0.25,360,366,Viernes,No
+2025-03-07,Pan Yema Redondo,0.25,360,362,Viernes,No
+2025-03-07,Pan Chapla,0.25,144,150,Viernes,No
+2025-03-07,Pan Coliza,0.25,192,198,Viernes,No
+2025-03-07,Pan Integral,0.25,144,141,Viernes,No
+2025-03-07,Pan Caracol,0.25,144,144,Viernes,No
+2025-03-07,Pan Hamburguesa,0.4,288,292,Viernes,No
+2025-03-07,Cachito,0.25,144,145,Viernes,No
+2025-03-07,Pan Manjar,0.3,24,22,Viernes,No
+2025-03-07,Leche,4.0,5,3,Viernes,No
+2025-03-07,Jamon,2.5,6,4,Viernes,No
+2025-03-07,Café,2.0,5,7,Viernes,No
+2025-03-07,Queso,3.0,4,5,Viernes,No
+2025-03-08,Pan Chabatta,0.25,768,763,Sábado,Sí
+2025-03-08,Pan Francés,0.25,648,644,Sábado,Sí
+2025-03-08,Pan Yema Largo,0.25,360,367,Sábado,Sí
+2025-03-08,Pan Yema Redondo,0.25,360,370,Sábado,Sí
+2025-03-08,Pan Chapla,0.25,144,144,Sábado,Sí
+2025-03-08,Pan Coliza,0.25,192,199,Sábado,Sí
+2025-03-08,Pan Integral,0.25,144,146,Sábado,Sí
+2025-03-08,Pan Caracol,0.25,144,150,Sábado,Sí
+2025-03-08,Pan Hamburguesa,0.4,288,287,Sábado,Sí
+2025-03-08,Cachito,0.25,144,144,Sábado,Sí
+2025-03-08,Pan Manjar,0.3,24,22,Sábado,Sí
+2025-03-08,Leche,4.0,5,2,Sábado,Sí
+2025-03-08,Jamon,2.5,6,4,Sábado,Sí
+2025-03-08,Café,2.0,5,7,Sábado,Sí
+2025-03-08,Queso,3.0,4,2,Sábado,Sí
+2025-03-09,Pan Chabatta,0.25,768,773,Domingo,Sí
+2025-03-09,Pan Francés,0.25,648,648,Domingo,Sí
+2025-03-09,Pan Yema Largo,0.25,360,374,Domingo,Sí
+2025-03-09,Pan Yema Redondo,0.25,360,379,Domingo,Sí
+2025-03-09,Pan Chapla,0.25,144,140,Domingo,Sí
+2025-03-09,Pan Coliza,0.25,192,190,Domingo,Sí
+2025-03-09,Pan Integral,0.25,144,143,Domingo,Sí
+2025-03-09,Pan Caracol,0.25,144,141,Domingo,Sí
+2025-03-09,Pan Hamburguesa,0.4,288,284,Domingo,Sí
+2025-03-09,Cachito,0.25,144,150,Domingo,Sí
+2025-03-09,Pan Manjar,0.3,24,28,Domingo,Sí
+2025-03-09,Leche,4.0,5,3,Domingo,Sí
+2025-03-09,Jamon,2.5,6,4,Domingo,Sí
+2025-03-09,Café,2.0,5,6,Domingo,Sí
+2025-03-09,Queso,3.0,4,4,Domingo,Sí
+2025-03-10,Pan Chabatta,0.25,768,779,Lunes,No
+2025-03-10,Pan Francés,0.25,648,647,Lunes,No
+2025-03-10,Pan Yema Largo,0.25,360,352,Lunes,No
+2025-03-10,Pan Yema Redondo,0.25,360,380,Lunes,No
+2025-03-10,Pan Chapla,0.25,144,145,Lunes,No
+2025-03-10,Pan Coliza,0.25,192,195,Lunes,No
+2025-03-10,Pan Integral,0.25,144,145,Lunes,No
+2025-03-10,Pan Caracol,0.25,144,147,Lunes,No
+2025-03-10,Pan Hamburguesa,0.4,288,288,Lunes,No
+2025-03-10,Cachito,0.25,144,146,Lunes,No
+2025-03-10,Pan Manjar,0.3,24,23,Lunes,No
+2025-03-10,Leche,4.0,5,6,Lunes,No
+2025-03-10,Jamon,2.5,6,4,Lunes,No
+2025-03-10,Café,2.0,5,7,Lunes,No
+2025-03-10,Queso,3.0,4,2,Lunes,No
+2025-03-11,Pan Chabatta,0.25,768,779,Martes,No
+2025-03-11,Pan Francés,0.25,648,660,Martes,No
+2025-03-11,Pan Yema Largo,0.25,360,380,Martes,No
+2025-03-11,Pan Yema Redondo,0.25,360,376,Martes,No
+2025-03-11,Pan Chapla,0.25,144,140,Martes,No
+2025-03-11,Pan Coliza,0.25,192,196,Martes,No
+2025-03-11,Pan Integral,0.25,144,141,Martes,No
+2025-03-11,Pan Caracol,0.25,144,148,Martes,No
+2025-03-11,Pan Hamburguesa,0.4,288,280,Martes,No
+2025-03-11,Cachito,0.25,144,146,Martes,No
+2025-03-11,Pan Manjar,0.3,24,24,Martes,No
+2025-03-11,Leche,4.0,5,6,Martes,No
+2025-03-11,Jamon,2.5,6,4,Martes,No
+2025-03-11,Café,2.0,5,6,Martes,No
+2025-03-11,Queso,3.0,4,2,Martes,No
+2025-03-12,Pan Chabatta,0.25,768,775,Miércoles,No
+2025-03-12,Pan Francés,0.25,648,657,Miércoles,No
+2025-03-12,Pan Yema Largo,0.25,360,350,Miércoles,No
+2025-03-12,Pan Yema Redondo,0.25,360,360,Miércoles,No
+2025-03-12,Pan Chapla,0.25,144,146,Miércoles,No
+2025-03-12,Pan Coliza,0.25,192,198,Miércoles,No
+2025-03-12,Pan Integral,0.25,144,150,Miércoles,No
+2025-03-12,Pan Caracol,0.25,144,149,Miércoles,No
+2025-03-12,Pan Hamburguesa,0.4,288,296,Miércoles,No
+2025-03-12,Cachito,0.25,144,141,Miércoles,No
+2025-03-12,Pan Manjar,0.3,24,25,Miércoles,No
+2025-03-12,Leche,4.0,5,3,Miércoles,No
+2025-03-12,Jamon,2.5,6,4,Miércoles,No
+2025-03-12,Café,2.0,5,4,Miércoles,No
+2025-03-12,Queso,3.0,4,3,Miércoles,No
+2025-03-13,Pan Chabatta,0.25,768,761,Jueves,No
+2025-03-13,Pan Francés,0.25,648,655,Jueves,No
+2025-03-13,Pan Yema Largo,0.25,360,370,Jueves,No
+2025-03-13,Pan Yema Redondo,0.25,360,370,Jueves,No
+2025-03-13,Pan Chapla,0.25,144,141,Jueves,No
+2025-03-13,Pan Coliza,0.25,192,197,Jueves,No
+2025-03-13,Pan Integral,0.25,144,145,Jueves,No
+2025-03-13,Pan Caracol,0.25,144,145,Jueves,No
+2025-03-13,Pan Hamburguesa,0.4,288,288,Jueves,No
+2025-03-13,Cachito,0.25,144,146,Jueves,No
+2025-03-13,Pan Manjar,0.3,24,22,Jueves,No
+2025-03-13,Leche,4.0,5,6,Jueves,No
+2025-03-13,Jamon,2.5,6,4,Jueves,No
+2025-03-13,Café,2.0,5,4,Jueves,No
+2025-03-13,Queso,3.0,4,3,Jueves,No
+2025-03-14,Pan Chabatta,0.25,768,777,Viernes,No
+2025-03-14,Pan Francés,0.25,648,653,Viernes,No
+2025-03-14,Pan Yema Largo,0.25,360,372,Viernes,No
+2025-03-14,Pan Yema Redondo,0.25,360,358,Viernes,No
+2025-03-14,Pan Chapla,0.25,144,150,Viernes,No
+2025-03-14,Pan Coliza,0.25,192,197,Viernes,No
+2025-03-14,Pan Integral,0.25,144,146,Viernes,No
+2025-03-14,Pan Caracol,0.25,144,141,Viernes,No
+2025-03-14,Pan Hamburguesa,0.4,288,294,Viernes,No
+2025-03-14,Cachito,0.25,144,146,Viernes,No
+2025-03-14,Pan Manjar,0.3,24,22,Viernes,No
+2025-03-14,Leche,4.0,5,3,Viernes,No
+2025-03-14,Jamon,2.5,6,5,Viernes,No
+2025-03-14,Café,2.0,5,6,Viernes,No
+2025-03-14,Queso,3.0,4,5,Viernes,No
+2025-03-15,Pan Chabatta,0.25,768,769,Sábado,Sí
+2025-03-15,Pan Francés,0.25,648,650,Sábado,Sí
+2025-03-15,Pan Yema Largo,0.25,360,369,Sábado,Sí
+2025-03-15,Pan Yema Redondo,0.25,360,375,Sábado,Sí
+2025-03-15,Pan Chapla,0.25,144,143,Sábado,Sí
+2025-03-15,Pan Coliza,0.25,192,198,Sábado,Sí
+2025-03-15,Pan Integral,0.25,144,146,Sábado,Sí
+2025-03-15,Pan Caracol,0.25,144,148,Sábado,Sí
+2025-03-15,Pan Hamburguesa,0.4,288,284,Sábado,Sí
+2025-03-15,Cachito,0.25,144,149,Sábado,Sí
+2025-03-15,Pan Manjar,0.3,24,24,Sábado,Sí
+2025-03-15,Leche,4.0,5,2,Sábado,Sí
+2025-03-15,Jamon,2.5,6,6,Sábado,Sí
+2025-03-15,Café,2.0,5,7,Sábado,Sí
+2025-03-15,Queso,3.0,4,2,Sábado,Sí
+2025-03-16,Pan Chabatta,0.25,768,775,Domingo,Sí
+2025-03-16,Pan Francés,0.25,648,652,Domingo,Sí
+2025-03-16,Pan Yema Largo,0.25,360,376,Domingo,Sí
+2025-03-16,Pan Yema Redondo,0.25,360,374,Domingo,Sí
+2025-03-16,Pan Chapla,0.25,144,140,Domingo,Sí
+2025-03-16,Pan Coliza,0.25,192,190,Domingo,Sí
+2025-03-16,Pan Integral,0.25,144,146,Domingo,Sí
+2025-03-16,Pan Caracol,0.25,144,145,Domingo,Sí
+2025-03-16,Pan Hamburguesa,0.4,288,283,Domingo,Sí
+2025-03-16,Cachito,0.25,144,149,Domingo,Sí
+2025-03-16,Pan Manjar,0.3,24,25,Domingo,Sí
+2025-03-16,Leche,4.0,5,2,Domingo,Sí
+2025-03-16,Jamon,2.5,6,5,Domingo,Sí
+2025-03-16,Café,2.0,5,5,Domingo,Sí
+2025-03-16,Queso,3.0,4,5,Domingo,Sí
+2025-03-17,Pan Chabatta,0.25,768,778,Lunes,No
+2025-03-17,Pan Francés,0.25,648,645,Lunes,No
+2025-03-17,Pan Yema Largo,0.25,360,352,Lunes,No
+2025-03-17,Pan Yema Redondo,0.25,360,380,Lunes,No
+2025-03-17,Pan Chapla,0.25,144,141,Lunes,No
+2025-03-17,Pan Coliza,0.25,192,197,Lunes,No
+2025-03-17,Pan Integral,0.25,144,142,Lunes,No
+2025-03-17,Pan Caracol,0.25,144,147,Lunes,No
+2025-03-17,Pan Hamburguesa,0.4,288,285,Lunes,No
+2025-03-17,Cachito,0.25,144,143,Lunes,No
+2025-03-17,Pan Manjar,0.3,24,24,Lunes,No
+2025-03-17,Leche,4.0,5,3,Lunes,No
+2025-03-17,Jamon,2.5,6,4,Lunes,No
+2025-03-17,Café,2.0,5,5,Lunes,No
+2025-03-17,Queso,3.0,4,2,Lunes,No
+2025-03-18,Pan Chabatta,0.25,768,778,Martes,No
+2025-03-18,Pan Francés,0.25,648,660,Martes,No
+2025-03-18,Pan Yema Largo,0.25,360,380,Martes,No
+2025-03-18,Pan Yema Redondo,0.25,360,376,Martes,No
+2025-03-18,Pan Chapla,0.25,144,145,Martes,No
+2025-03-18,Pan Coliza,0.25,192,197,Martes,No
+2025-03-18,Pan Integral,0.25,144,141,Martes,No
+2025-03-18,Pan Caracol,0.25,144,148,Martes,No
+2025-03-18,Pan Hamburguesa,0.4,288,282,Martes,No
+2025-03-18,Cachito,0.25,144,150,Martes,No
+2025-03-18,Pan Manjar,0.3,24,22,Martes,No
+2025-03-18,Leche,4.0,5,6,Martes,No
+2025-03-18,Jamon,2.5,6,4,Martes,No
+2025-03-18,Café,2.0,5,7,Martes,No
+2025-03-18,Queso,3.0,4,5,Martes,No
+2025-03-19,Pan Chabatta,0.25,768,776,Miércoles,No
+2025-03-19,Pan Francés,0.25,648,656,Miércoles,No
+2025-03-19,Pan Yema Largo,0.25,360,350,Miércoles,No
+2025-03-19,Pan Yema Redondo,0.25,360,356,Miércoles,No
+2025-03-19,Pan Chapla,0.25,144,145,Miércoles,No
+2025-03-19,Pan Coliza,0.25,192,200,Miércoles,No
+2025-03-19,Pan Integral,0.25,144,149,Miércoles,No
+2025-03-19,Pan Caracol,0.25,144,150,Miércoles,No
+2025-03-19,Pan Hamburguesa,0.4,288,299,Miércoles,No
+2025-03-19,Cachito,0.25,144,145,Miércoles,No
+2025-03-19,Pan Manjar,0.3,24,22,Miércoles,No
+2025-03-19,Leche,4.0,5,5,Miércoles,No
+2025-03-19,Jamon,2.5,6,4,Miércoles,No
+2025-03-19,Café,2.0,5,4,Miércoles,No
+2025-03-19,Queso,3.0,4,5,Miércoles,No
+2025-03-20,Pan Chabatta,0.25,768,760,Jueves,No
+2025-03-20,Pan Francés,0.25,648,650,Jueves,No
+2025-03-20,Pan Yema Largo,0.25,360,374,Jueves,No
+2025-03-20,Pan Yema Redondo,0.25,360,373,Jueves,No
+2025-03-20,Pan Chapla,0.25,144,141,Jueves,No
+2025-03-20,Pan Coliza,0.25,192,195,Jueves,No
+2025-03-20,Pan Integral,0.25,144,147,Jueves,No
+2025-03-20,Pan Caracol,0.25,144,143,Jueves,No
+2025-03-20,Pan Hamburguesa,0.4,288,282,Jueves,No
+2025-03-20,Cachito,0.25,144,150,Jueves,No
+2025-03-20,Pan Manjar,0.3,24,25,Jueves,No
+2025-03-20,Leche,4.0,5,2,Jueves,No
+2025-03-20,Jamon,2.5,6,4,Jueves,No
+2025-03-20,Café,2.0,5,4,Jueves,No
+2025-03-20,Queso,3.0,4,2,Jueves,No
+2025-03-21,Pan Chabatta,0.25,768,779,Viernes,No
+2025-03-21,Pan Francés,0.25,648,652,Viernes,No
+2025-03-21,Pan Yema Largo,0.25,360,372,Viernes,No
+2025-03-21,Pan Yema Redondo,0.25,360,359,Viernes,No
+2025-03-21,Pan Chapla,0.25,144,149,Viernes,No
+2025-03-21,Pan Coliza,0.25,192,199,Viernes,No
+2025-03-21,Pan Integral,0.25,144,143,Viernes,No
+2025-03-21,Pan Caracol,0.25,144,140,Viernes,No
+2025-03-21,Pan Hamburguesa,0.4,288,298,Viernes,No
+2025-03-21,Cachito,0.25,144,145,Viernes,No
+2025-03-21,Pan Manjar,0.3,24,24,Viernes,No
+2025-03-21,Leche,4.0,5,2,Viernes,No
+2025-03-21,Jamon,2.5,6,4,Viernes,No
+2025-03-21,Café,2.0,5,5,Viernes,No
+2025-03-21,Queso,3.0,4,4,Viernes,No
+2025-03-22,Pan Chabatta,0.25,768,766,Sábado,Sí
+2025-03-22,Pan Francés,0.25,648,650,Sábado,Sí
+2025-03-22,Pan Yema Largo,0.25,360,372,Sábado,Sí
+2025-03-22,Pan Yema Redondo,0.25,360,370,Sábado,Sí
+2025-03-22,Pan Chapla,0.25,144,145,Sábado,Sí
+2025-03-22,Pan Coliza,0.25,192,200,Sábado,Sí
+2025-03-22,Pan Integral,0.25,144,149,Sábado,Sí
+2025-03-22,Pan Caracol,0.25,144,146,Sábado,Sí
+2025-03-22,Pan Hamburguesa,0.4,288,285,Sábado,Sí
+2025-03-22,Cachito,0.25,144,144,Sábado,Sí
+2025-03-22,Pan Manjar,0.3,24,25,Sábado,Sí
+2025-03-22,Leche,4.0,5,2,Sábado,Sí
+2025-03-22,Jamon,2.5,6,6,Sábado,Sí
+2025-03-22,Café,2.0,5,4,Sábado,Sí
+2025-03-22,Queso,3.0,4,2,Sábado,Sí
+2025-03-23,Pan Chabatta,0.25,768,776,Domingo,Sí
+2025-03-23,Pan Francés,0.25,648,648,Domingo,Sí
+2025-03-23,Pan Yema Largo,0.25,360,375,Domingo,Sí
+2025-03-23,Pan Yema Redondo,0.25,360,373,Domingo,Sí
+2025-03-23,Pan Chapla,0.25,144,142,Domingo,Sí
+2025-03-23,Pan Coliza,0.25,192,192,Domingo,Sí
+2025-03-23,Pan Integral,0.25,144,143,Domingo,Sí
+2025-03-23,Pan Caracol,0.25,144,143,Domingo,Sí
+2025-03-23,Pan Hamburguesa,0.4,288,285,Domingo,Sí
+2025-03-23,Cachito,0.25,144,147,Domingo,Sí
+2025-03-23,Pan Manjar,0.3,24,28,Domingo,Sí
+2025-03-23,Leche,4.0,5,5,Domingo,Sí
+2025-03-23,Jamon,2.5,6,4,Domingo,Sí
+2025-03-23,Café,2.0,5,5,Domingo,Sí
+2025-03-23,Queso,3.0,4,3,Domingo,Sí
+2025-03-24,Pan Chabatta,0.25,768,780,Lunes,No
+2025-03-24,Pan Francés,0.25,648,645,Lunes,No
+2025-03-24,Pan Yema Largo,0.25,360,350,Lunes,No
+2025-03-24,Pan Yema Redondo,0.25,360,380,Lunes,No
+2025-03-24,Pan Chapla,0.25,144,145,Lunes,No
+2025-03-24,Pan Coliza,0.25,192,195,Lunes,No
+2025-03-24,Pan Integral,0.25,144,148,Lunes,No
+2025-03-24,Pan Caracol,0.25,144,150,Lunes,No
+2025-03-24,Pan Hamburguesa,0.4,288,285,Lunes,No
+2025-03-24,Cachito,0.25,144,142,Lunes,No
+2025-03-24,Pan Manjar,0.3,24,28,Lunes,No
+2025-03-24,Leche,4.0,5,6,Lunes,No
+2025-03-24,Jamon,2.5,6,4,Lunes,No
+2025-03-24,Café,2.0,5,4,Lunes,No
+2025-03-24,Queso,3.0,4,5,Lunes,No
+2025-03-25,Pan Chabatta,0.25,768,775,Martes,No
+2025-03-25,Pan Francés,0.25,648,660,Martes,No
+2025-03-25,Pan Yema Largo,0.25,360,378,Martes,No
+2025-03-25,Pan Yema Redondo,0.25,360,374,Martes,No
+2025-03-25,Pan Chapla,0.25,144,145,Martes,No
+2025-03-25,Pan Coliza,0.25,192,195,Martes,No
+2025-03-25,Pan Integral,0.25,144,146,Martes,No
+2025-03-25,Pan Caracol,0.25,144,150,Martes,No
+2025-03-25,Pan Hamburguesa,0.4,288,281,Martes,No
+2025-03-25,Cachito,0.25,144,150,Martes,No
+2025-03-25,Pan Manjar,0.3,24,26,Martes,No
+2025-03-25,Leche,4.0,5,2,Martes,No
+2025-03-25,Jamon,2.5,6,6,Martes,No
+2025-03-25,Café,2.0,5,7,Martes,No
+2025-03-25,Queso,3.0,4,4,Martes,No
+2025-03-26,Pan Chabatta,0.25,768,776,Miércoles,No
+2025-03-26,Pan Francés,0.25,648,660,Miércoles,No
+2025-03-26,Pan Yema Largo,0.25,360,350,Miércoles,No
+2025-03-26,Pan Yema Redondo,0.25,360,359,Miércoles,No
+2025-03-26,Pan Chapla,0.25,144,146,Miércoles,No
+2025-03-26,Pan Coliza,0.25,192,200,Miércoles,No
+2025-03-26,Pan Integral,0.25,144,149,Miércoles,No
+2025-03-26,Pan Caracol,0.25,144,147,Miércoles,No
+2025-03-26,Pan Hamburguesa,0.4,288,294,Miércoles,No
+2025-03-26,Cachito,0.25,144,140,Miércoles,No
+2025-03-26,Pan Manjar,0.3,24,24,Miércoles,No
+2025-03-26,Leche,4.0,5,3,Miércoles,No
+2025-03-26,Jamon,2.5,6,4,Miércoles,No
+2025-03-26,Café,2.0,5,5,Miércoles,No
+2025-03-26,Queso,3.0,4,5,Miércoles,No
+2025-03-27,Pan Chabatta,0.25,768,760,Jueves,No
+2025-03-27,Pan Francés,0.25,648,656,Jueves,No
+2025-03-27,Pan Yema Largo,0.25,360,373,Jueves,No
+2025-03-27,Pan Yema Redondo,0.25,360,374,Jueves,No
+2025-03-27,Pan Chapla,0.25,144,142,Jueves,No
+2025-03-27,Pan Coliza,0.25,192,197,Jueves,No
+2025-03-27,Pan Integral,0.25,144,145,Jueves,No
+2025-03-27,Pan Caracol,0.25,144,145,Jueves,No
+2025-03-27,Pan Hamburguesa,0.4,288,283,Jueves,No
+2025-03-27,Cachito,0.25,144,149,Jueves,No
+2025-03-27,Pan Manjar,0.3,24,23,Jueves,No
+2025-03-27,Leche,4.0,5,4,Jueves,No
+2025-03-27,Jamon,2.5,6,4,Jueves,No
+2025-03-27,Café,2.0,5,7,Jueves,No
+2025-03-27,Queso,3.0,4,2,Jueves,No
+2025-03-28,Pan Chabatta,0.25,768,776,Viernes,No
+2025-03-28,Pan Francés,0.25,648,651,Viernes,No
+2025-03-28,Pan Yema Largo,0.25,360,370,Viernes,No
+2025-03-28,Pan Yema Redondo,0.25,360,362,Viernes,No
+2025-03-28,Pan Chapla,0.25,144,148,Viernes,No
+2025-03-28,Pan Coliza,0.25,192,200,Viernes,No
+2025-03-28,Pan Integral,0.25,144,145,Viernes,No
+2025-03-28,Pan Caracol,0.25,144,142,Viernes,No
+2025-03-28,Pan Hamburguesa,0.4,288,295,Viernes,No
+2025-03-28,Cachito,0.25,144,149,Viernes,No
+2025-03-28,Pan Manjar,0.3,24,26,Viernes,No
+2025-03-28,Leche,4.0,5,2,Viernes,No
+2025-03-28,Jamon,2.5,6,5,Viernes,No
+2025-03-28,Café,2.0,5,4,Viernes,No
+2025-03-28,Queso,3.0,4,4,Viernes,No
+2025-03-29,Pan Chabatta,0.25,768,766,Sábado,Sí
+2025-03-29,Pan Francés,0.25,648,646,Sábado,Sí
+2025-03-29,Pan Yema Largo,0.25,360,369,Sábado,Sí
+2025-03-29,Pan Yema Redondo,0.25,360,372,Sábado,Sí
+2025-03-29,Pan Chapla,0.25,144,140,Sábado,Sí
+2025-03-29,Pan Coliza,0.25,192,200,Sábado,Sí
+2025-03-29,Pan Integral,0.25,144,150,Sábado,Sí
+2025-03-29,Pan Caracol,0.25,144,150,Sábado,Sí
+2025-03-29,Pan Hamburguesa,0.4,288,282,Sábado,Sí
+2025-03-29,Cachito,0.25,144,150,Sábado,Sí
+2025-03-29,Pan Manjar,0.3,24,24,Sábado,Sí
+2025-03-29,Leche,4.0,5,3,Sábado,Sí
+2025-03-29,Jamon,2.5,6,4,Sábado,Sí
+2025-03-29,Café,2.0,5,7,Sábado,Sí
+2025-03-29,Queso,3.0,4,2,Sábado,Sí
+2025-03-30,Pan Chabatta,0.25,768,774,Domingo,Sí
+2025-03-30,Pan Francés,0.25,648,652,Domingo,Sí
+2025-03-30,Pan Yema Largo,0.25,360,374,Domingo,Sí
+2025-03-30,Pan Yema Redondo,0.25,360,373,Domingo,Sí
+2025-03-30,Pan Chapla,0.25,144,144,Domingo,Sí
+2025-03-30,Pan Coliza,0.25,192,193,Domingo,Sí
+2025-03-30,Pan Integral,0.25,144,148,Domingo,Sí
+2025-03-30,Pan Caracol,0.25,144,144,Domingo,Sí
+2025-03-30,Pan Hamburguesa,0.4,288,285,Domingo,Sí
+2025-03-30,Cachito,0.25,144,150,Domingo,Sí
+2025-03-30,Pan Manjar,0.3,24,28,Domingo,Sí
+2025-03-30,Leche,4.0,5,2,Domingo,Sí
+2025-03-30,Jamon,2.5,6,4,Domingo,Sí
+2025-03-30,Café,2.0,5,6,Domingo,Sí
+2025-03-30,Queso,3.0,4,5,Domingo,Sí
+2025-03-31,Pan Chabatta,0.25,768,780,Lunes,No
+2025-03-31,Pan Francés,0.25,648,645,Lunes,No
+2025-03-31,Pan Yema Largo,0.25,360,350,Lunes,No
+2025-03-31,Pan Yema Redondo,0.25,360,380,Lunes,No
+2025-03-31,Pan Chapla,0.25,144,142,Lunes,No
+2025-03-31,Pan Coliza,0.25,192,195,Lunes,No
+2025-03-31,Pan Integral,0.25,144,145,Lunes,No
+2025-03-31,Pan Caracol,0.25,144,149,Lunes,No
+2025-03-31,Pan Hamburguesa,0.4,288,291,Lunes,No
+2025-03-31,Cachito,0.25,144,145,Lunes,No
+2025-03-31,Pan Manjar,0.3,24,23,Lunes,No
+2025-03-31,Leche,4.0,5,5,Lunes,No
+2025-03-31,Jamon,2.5,6,4,Lunes,No
+2025-03-31,Café,2.0,5,4,Lunes,No
+2025-03-31,Queso,3.0,4,2,Lunes,No
